@@ -11,7 +11,7 @@ public class PlayMovement : MonoBehaviour
     Rigidbody2D rd2D;
 
     private bool betterJump = false;
-   
+   //testa testa testa merge konflikt
     public float fallMultipiler = 0.5f;
     public float lowJumpMultiplier = 1f;
 
